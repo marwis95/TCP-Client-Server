@@ -1,0 +1,2 @@
+C:\Users\plc\Documents\Visual Studio 2010\Projects\TCP_ Client_Server\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\plc\Documents\Visual Studio 2010\Projects\TCP_ Client_Server\Client\Client\obj\x86\Debug\Client.pdb
