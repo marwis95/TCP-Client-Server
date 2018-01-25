@@ -1,0 +1,5 @@
+c:\users\plc\documents\visual studio 2010\Projects\TCP_ Client_Server\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\plc\documents\visual studio 2010\Projects\TCP_ Client_Server\Client\Client\bin\Debug\Client.exe
+c:\users\plc\documents\visual studio 2010\Projects\TCP_ Client_Server\Client\Client\bin\Debug\Client.pdb
+c:\users\plc\documents\visual studio 2010\Projects\TCP_ Client_Server\Client\Client\obj\x86\Debug\Client.exe
+c:\users\plc\documents\visual studio 2010\Projects\TCP_ Client_Server\Client\Client\obj\x86\Debug\Client.pdb
